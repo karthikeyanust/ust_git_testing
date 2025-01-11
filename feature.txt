@@ -1,1 +1,2 @@
 This is for step 6 - Working on the branches
+this is for testing the feature branch to resolve the merge conflicts 
