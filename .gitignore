@@ -1,1 +1,7 @@
-.gitignore
+cat .gitignore
+    # exclude everything except directory bank/retail
+    /*
+    !/bank
+    /bank/*
+    !/bank/retail/
+	/*.log
