@@ -1,1 +1,2 @@
 This is for step 6 - Working on the branches
+this is for step 8 resolve merge conflicts
